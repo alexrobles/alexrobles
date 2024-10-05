@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexander Robles</h1>
 <h3 align="center">A passionate frontend developer from Colombia, currently I'm living in Medellin city</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexrobles" alt="alexrobles" /></a> </p>
 
 - 🔭 I’m currently working on [Comfama, where I've finished this platform](https://www.comfama.com/servicio-de-empleo/personas/subsidio-de-desempleo/formulario-fosfec/)
 
