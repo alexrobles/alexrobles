@@ -1,12 +1,11 @@
-<h1 align="center">Hi 👋, I'm Alexander Robles</h1>
-<h3 align="center">A passionate frontend developer from Colombia, currently I'm living in Medellin city</h3>
+<h1 align="center">Hi 👋, this is Alexander Robles</h1>
+<h3 align="center">I'm a passionate fullstack developer from Colombia, currently based in Medellín.</h3>
 
+- 🔭 I’m currently working on [Comfama, where I’ve successfully completed a platform designed for the public looking for outgoing job opportunities](https://www.comfama.com/servicio-de-empleo/personas/subsidio-de-desempleo/formulario-fosfec/)
 
-- 🔭 I’m currently working on [Comfama, where I've finished this platform](https://www.comfama.com/servicio-de-empleo/personas/subsidio-de-desempleo/formulario-fosfec/)
-
-- 🌱 I’m currently learning **Trading**
-
-- 🤝 I’m looking for help with **Partners and Collages**
+- 🌱 Learning **Trading** in my free time.
+  
+- 🤝 Open to collaborating with **partners and colleagues** on exciting projects.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
